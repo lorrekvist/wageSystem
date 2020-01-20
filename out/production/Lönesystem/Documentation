@@ -1,0 +1,5 @@
+Made super basic login system. It worked. Refactored code to allow same login method to work for both admin and regular users.
+
+Will remake with simple DB later.
+
+Tested login with incorrect information. Works as intended.
